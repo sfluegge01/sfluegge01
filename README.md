@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Scott Fluegge
-- 👀 I’m interested in analytics 
-- 🌱 I’m currently learning DAX, and Power BI
-- 💞️ I’m looking to collaborate on projects and developing a portfolio to help showcase my analytical skill set. 
+- 👀 I’m interested in analytics
+- 🌱 I’m experienced with Excel (Advanced), Power BI, Tableau, and SQL 
+- 💞️ I’m looking to collaborate on projects and developing a portfolio to help showcase my analytical skill set as I transition into new challenging roles within my career
 - 📫 You can reach me directly at sfluegge01@gmail.com
 
 <!---
